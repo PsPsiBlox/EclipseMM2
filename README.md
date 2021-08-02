@@ -1,4 +1,4 @@
-# EclipseMM2
+
 
 Hello! This is a script for [Murder Mystery 2](https://roblox.com/games/142823291/Murder-Mystery-2). The script has assassin compatiility for the gamemode inside of Murder Mystery 2.
 
@@ -20,14 +20,6 @@ Electron and Scriptware has been reported to work with the script, but are not o
 
 ## Loadstring
 
-The loadstring will always hold the up to date version!
-```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Ethanoj1/EclipseMM2/master/Script", true))()
-```
-You can get the current version of the script [here](https://raw.githubusercontent.com/Ethanoj1/EclipseMM2/master/CurrentVersion.txt).
-## Discord
-
-You can request a Discord Invite from the Eclipse GUI. You can only request 1 per day. You can suggest features and report bugs in the Discord server.
 
 ## Terms Of Service
 
@@ -53,9 +45,6 @@ Failure to follow the Terms of Service will result in a blacklist/ban from using
 
 ## Credits
 
-* API: £thanoj1#3304
-* Discord Bot: £thanoj1#3304
-* ToS and Github: £thanoj1#3304
-* Original UI: lennard#4496 (Modified by £thanoj1#3304)
 
-This script has been made by £thanoj1#3304 (Current/Main Dev) and Doggo#0931 (Old Dev).
+
+This script has been made by Ak.#5249 (Current/Main Dev) and Doggo#0931 (Old Dev).
